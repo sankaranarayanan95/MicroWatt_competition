@@ -47,11 +47,19 @@ SecureMicrowatt-HSM extends the **Microwatt core** with domain-specific security
 
 ## 🏗️ Architecture Overview  
 
+ <p align="center">
+   <img src="img1.png" alt="GTKWave Counter Output" width="300%">
+</p>
 
+<p align="center">
+   <img src="img2.png" alt="GTKWave Counter Output" width="300%">
+</p>
 
+## 📊 Process Flow  
 
-
-
+<p align="center">
+   <img src="process_flow.png" alt="GTKWave Counter Output" width="300%">
+</p>
 
 ---
 
@@ -63,6 +71,13 @@ SecureMicrowatt-HSM extends the **Microwatt core** with domain-specific security
 - 🏥 **Critical Infrastructure** → Smart grid, medical device protection  
 
 ---
+
+## 🧮 SWOT Analysis
+<p align="center">
+   <img src="swot.png" alt="GTKWave Counter Output" width="300%">
+</p>
+
+
 
 ## 📊 Performance Targets  
 
@@ -86,8 +101,6 @@ SecureMicrowatt-HSM extends the **Microwatt core** with domain-specific security
 
 ---
 
-
----
 
 ## 🚦 Getting Started  
 
